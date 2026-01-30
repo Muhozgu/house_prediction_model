@@ -1,2 +1,2 @@
 # house_prediction_model
-Predict House Prices
+House Prices Model
